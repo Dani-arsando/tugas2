@@ -88,7 +88,7 @@ class Programnya extends StatelessWidget {
       w: double.infinity ),
       spasi(h: 10.0),
       cetakTextFoto(
-        txt: 'Hello Word\nHai Semuanya....\nPerkenalkan Nama Saya Arsando'
+        txt: 'Hello Word\nHai Semuanya....\nPerkenalkan Nama Saya Yannii'
       ),
       spasi(h: 10.0),
       cetakTextFoto(
